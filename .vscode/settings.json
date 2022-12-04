@@ -1,0 +1,18 @@
+{
+    "terminal.integrated.automationProfile.windows": {
+    
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.env.windows": {
+    
+    },
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./pof_test",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}
