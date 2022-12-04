@@ -1,0 +1,15 @@
+-add map rendering         *
+-add player                *
+-add player movement       *
+-add map overlay rendering
+-add player stats          !
+-add side bar rendering    !
+-add info terminal
+-add map interactivity     *
+-add inventory             *
+-add item deconstruction
+-add crafting
+-add item usability        !
+-add enemies
+-add base building
+-add tileset
