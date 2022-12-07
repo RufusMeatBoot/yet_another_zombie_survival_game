@@ -2,7 +2,7 @@
 # import files and modules
 import game_map as Map
 import player   as Player
-import tiles    as Tiles
+import lower    as Tiles
 import render   as Render
 import ui       as UI
 import items    as Items
